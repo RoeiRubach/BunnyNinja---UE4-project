@@ -47,4 +47,4 @@ current date: 10-MAR-2020
 
 ## Credits
 
-A huge thank to my lecturer © [Yonatan Tepperberg/](https://www.linkedin.com/in/yonatantepperberg/) :point_left:
+A huge thank to my lecturer © [Yonatan Tepperberg](https://www.linkedin.com/in/yonatantepperberg/) :point_left:

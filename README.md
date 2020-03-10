@@ -15,6 +15,7 @@ Collect-A-Thon (short for "Collection Marathon"). A style of Platform Game that 
 ## Final course project
 
 This project was for my 3rd year Unreal Engine 4 final course.
+
 The course lecturer is very fond of games of this genre, and we had to create an idea for an interesting and cool project to be approved by him.
 This project should include all the topics and features we have learned over the years.
 

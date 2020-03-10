@@ -1,6 +1,7 @@
 # Bunny Ninja :rabbit2: :star2:
 
 This is a Collect-A-Thon Platformer game. Developed with Unreal Engine 4.
+
 Collect-A-Thon (short for "Collection Marathon"). A style of Platform Game that was very popular once, explorable worlds where players could move around freely.
 
 ## Table of contents
